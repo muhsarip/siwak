@@ -1,0 +1,52 @@
+body {
+    background-image: url(bg.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: #F2F2F2;
+
+}
+.no-underline {
+	text-decoration: none;
+
+}
+.no-underline:hover {
+	color: silver;
+}
+#map {
+height: 400px;
+width: 100%;
+}
+.map {
+height: 300px;
+width: 100%;
+margin-bottom: 20px;
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+.header-main {
+	color: #5979a0;
+	font-family: sans-serif;
+	font-size: 20px;
+}
+.table-main {
+	width: 388px !important;
+	font-size: 20px;
+	color: #5692ce ;
+}
+.table-main th, td {
+    border-bottom: 1px solid #ddd !important;
+
+}
+.header-admin {
+      float: left;
+    background-color: transparent;
+    background-image: none;
+    padding: 15px 15px;
+    color: white;
+    font-size: 15px;
+}
